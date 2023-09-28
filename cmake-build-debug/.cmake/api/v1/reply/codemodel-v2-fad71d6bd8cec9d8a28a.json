@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.24"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "0507mpi",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "0507mpi::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-0507mpi-Debug-6abd145d074e2f3a4b51.json",
+					"name" : "0507mpi",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/mikhail/\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430/Clion/0507mpi/cmake-build-debug",
+		"source" : "/home/mikhail/\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430/Clion/0507mpi"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

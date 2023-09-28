@@ -1,0 +1,7 @@
+
+0507mpi:86497 terminated with signal 11 at PC=55e802735588 SP=7ffe82b54860.  Backtrace:
+/home/mikhail/ Разработка/Clion/0507mpi/cmake-build-debug/0507mpi(+0x6588)[0x55e802735588]
+/home/mikhail/ Разработка/Clion/0507mpi/cmake-build-debug/0507mpi(+0x6a6c)[0x55e802735a6c]
+/lib/x86_64-linux-gnu/libc.so.6(+0x29d90)[0x7f63f8629d90]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0x80)[0x7f63f8629e40]
+/home/mikhail/ Разработка/Clion/0507mpi/cmake-build-debug/0507mpi(+0x4d85)[0x55e802733d85]

@@ -1,0 +1,108 @@
+{
+	"cmake" : 
+	{
+		"generator" : 
+		{
+			"multiConfig" : false,
+			"name" : "Ninja"
+		},
+		"paths" : 
+		{
+			"cmake" : "/home/mikhail/\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430/CLion-2022.3.2/clion-2022.3.2/bin/cmake/linux/x64/bin/cmake",
+			"cpack" : "/home/mikhail/\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430/CLion-2022.3.2/clion-2022.3.2/bin/cmake/linux/x64/bin/cpack",
+			"ctest" : "/home/mikhail/\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430/CLion-2022.3.2/clion-2022.3.2/bin/cmake/linux/x64/bin/ctest",
+			"root" : "/home/mikhail/\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430/CLion-2022.3.2/clion-2022.3.2/bin/cmake/linux/x64/share/cmake-3.24"
+		},
+		"version" : 
+		{
+			"isDirty" : false,
+			"major" : 3,
+			"minor" : 24,
+			"patch" : 2,
+			"string" : "3.24.2",
+			"suffix" : ""
+		}
+	},
+	"objects" : 
+	[
+		{
+			"jsonFile" : "codemodel-v2-fad71d6bd8cec9d8a28a.json",
+			"kind" : "codemodel",
+			"version" : 
+			{
+				"major" : 2,
+				"minor" : 4
+			}
+		},
+		{
+			"jsonFile" : "cache-v2-7acf3d20ba3f97b98157.json",
+			"kind" : "cache",
+			"version" : 
+			{
+				"major" : 2,
+				"minor" : 0
+			}
+		},
+		{
+			"jsonFile" : "cmakeFiles-v1-c343afea853849dd8d4d.json",
+			"kind" : "cmakeFiles",
+			"version" : 
+			{
+				"major" : 1,
+				"minor" : 0
+			}
+		},
+		{
+			"jsonFile" : "toolchains-v1-6ee0a91340e47aeab761.json",
+			"kind" : "toolchains",
+			"version" : 
+			{
+				"major" : 1,
+				"minor" : 0
+			}
+		}
+	],
+	"reply" : 
+	{
+		"cache-v2" : 
+		{
+			"jsonFile" : "cache-v2-7acf3d20ba3f97b98157.json",
+			"kind" : "cache",
+			"version" : 
+			{
+				"major" : 2,
+				"minor" : 0
+			}
+		},
+		"cmakeFiles-v1" : 
+		{
+			"jsonFile" : "cmakeFiles-v1-c343afea853849dd8d4d.json",
+			"kind" : "cmakeFiles",
+			"version" : 
+			{
+				"major" : 1,
+				"minor" : 0
+			}
+		},
+		"codemodel-v2" : 
+		{
+			"jsonFile" : "codemodel-v2-fad71d6bd8cec9d8a28a.json",
+			"kind" : "codemodel",
+			"version" : 
+			{
+				"major" : 2,
+				"minor" : 4
+			}
+		},
+		"toolchains-v1" : 
+		{
+			"jsonFile" : "toolchains-v1-6ee0a91340e47aeab761.json",
+			"kind" : "toolchains",
+			"version" : 
+			{
+				"major" : 1,
+				"minor" : 0
+			}
+		}
+	}
+}

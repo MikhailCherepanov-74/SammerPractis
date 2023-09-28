@@ -1,0 +1,3 @@
+/home/mikhail/Разработка/Clion/0507mpi/cmake-build-debug/CMakeFiles/0507mpi.dir
+/home/mikhail/Разработка/Clion/0507mpi/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/mikhail/Разработка/Clion/0507mpi/cmake-build-debug/CMakeFiles/rebuild_cache.dir
