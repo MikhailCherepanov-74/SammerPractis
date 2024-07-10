@@ -1,6 +1,9 @@
 #pragma once
 #include<string>
 #include "mpi.h"
+#include <iostream>
+#include <vector>
+#include <map>
 using namespace std;
 
 class Node{
