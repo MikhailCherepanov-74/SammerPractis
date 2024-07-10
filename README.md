@@ -33,8 +33,7 @@ data encoding occurs in parallel on each process.
 The main advantages and characteristics of the project include an increase
 in data transfer speed (maximum data transfer rate in the network) and
 network throughput (maximum amount of data transmitted
-through the network over a certain period of time) through the use of parallel-
-computer programming. Network reliability is ensured by connecting
+through the network over a certain period of time) through the use of parallel-computer programming. Network reliability is ensured by connecting
 three nodes to a local network, and data exchange is secure due
 to the configuration of an SSH server for each node.
 
@@ -46,5 +45,9 @@ increasing the number of nodes.
 
 
 
-Documentation in Russian Language: [here]()
+## Documentation in Russian Language: [here](https://github.com/MikhailCherepanovD/SammerPractis/blob/main/Documentation.pdf)
+
+
+
+
 
